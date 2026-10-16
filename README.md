@@ -1,4 +1,5 @@
-# Hi, I'm Tom 👋
+# Hi, nice to meet you! 👋
+I'm Tom. 
 
 ## 🛠️ My projects
 
