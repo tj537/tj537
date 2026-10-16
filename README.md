@@ -1,7 +1,5 @@
 # Hi, I'm Tom 👋
 
-I study **marketing management** in Baden-Württemberg, Germany – part-time, next to a full-time job. At work and at university I kept needing small tools, so I started building them myself, **together with AI** ([Claude](https://claude.ai)). I'm new to software development and learn by building things I actually use.
-
 ## 🛠️ My projects
 
 <table>
