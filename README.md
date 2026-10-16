@@ -1,47 +1,32 @@
-# Hi, nice to meet you! 👋
-I'm Tom. 
+**Hi, I'm Tom 👋**
 
-## 🛠️ My projects
+I build small apps that I want to use myself – and learn programming with AI along the way.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**💡 What I care about**
 
-<a href="https://github.com/tj537/toms-tools"><img src="https://raw.githubusercontent.com/tj537/toms-tools/main/docs/social-preview.png" alt="Toms Tools – 32 offline tools in one HTML file"></a>
+- 🧰 **Useful everyday apps** – small, fast and modern, each doing one job well
+- 🎨 **Good design and UX** – a tool should feel good to use, not just work
+- 🔒 **Privacy and open source** – your files stay on your computer, the code is open
+- 🤖 **Learning to code with AI** – from an idea to an app people actually use
 
-### 🧰 Toms Tools
+**🛠️ My projects**
 
-32 small tools in one HTML file – PDFs, images, screenshots, mind maps, SWOT, citations, flashcards and more. Runs offline in the browser, no install – made for the work PC.
+<a href="https://github.com/tj537/mindful"><img src="https://raw.githubusercontent.com/tj537/mindful/main/docs/social-preview.png" alt="Mindful – mind maps, Markdown and presentations in one small app" width="520"></a>
 
-[⬇️ Download](https://github.com/tj537/toms-tools/releases/latest/download/toms-tools.html) · [▶️ Try it](https://tj537.github.io/toms-tools/) · [📂 Repo](https://github.com/tj537/toms-tools)
+**🧠 Mindful** – mind maps, Markdown and presentations in one small app for Mac and Windows. Write an outline once and present it as slides with diagrams and charts, presenter view and phone remote. Written in Rust.
 
-</td>
-<td width="50%" valign="top">
+[⬇️ macOS](https://github.com/tj537/mindful/releases/latest/download/Mindful-macos-arm64.zip) · [⬇️ Windows](https://github.com/tj537/mindful/releases/latest/download/Mindful-windows-x64.zip) · [📂 Code](https://github.com/tj537/mindful)
 
-<a href="https://github.com/tj537/mindful"><img src="https://raw.githubusercontent.com/tj537/mindful/main/docs/social-preview.png" alt="Mindful – mind maps, Markdown and presentations in one small app"></a>
+<br>
 
-### 🧠 Mindful
+<a href="https://github.com/tj537/toms-tools"><img src="https://raw.githubusercontent.com/tj537/toms-tools/main/docs/social-preview.png" alt="Toms Tools – 32 offline tools in one HTML file" width="520"></a>
 
-Mind maps, Markdown and presentations in one small app for Mac and Windows. Write an outline once, present it as slides with diagrams and charts – with presenter view, phone remote and PDF export. Written in Rust.
+**🧰 Toms Tools** – 32 small tools in one HTML file: PDFs, images, screenshots, mind maps, SWOT, citations, flashcards and more. Runs offline in the browser, nothing to install.
 
-[⬇️ macOS](https://github.com/tj537/mindful/releases/latest/download/Mindful-macos-arm64.zip) · [⬇️ Windows](https://github.com/tj537/mindful/releases/latest/download/Mindful-windows-x64.zip) · [📂 Repo](https://github.com/tj537/mindful)
+[▶️ Try it](https://tj537.github.io/toms-tools/) · [⬇️ Download](https://github.com/tj537/toms-tools/releases/latest/download/toms-tools.html) · [📂 Code](https://github.com/tj537/toms-tools)
 
-</td>
-</tr>
-</table>
-
-## 💡 What I care about
-
-- 📣 Marketing, business models and making everyday office work less tedious
-- 🔒 Tools that respect privacy – your files should stay on your computer
-- 🤖 Building useful things with AI, even without a developer background
-
-## 🤝 Get in touch
+**🤝 Get in touch**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%20Fischer-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/tom-fischer-466479220)
 
-Ideas or bugs? Open an issue in [Toms Tools](https://github.com/tj537/toms-tools/issues/new/choose) or [Mindful](https://github.com/tj537/mindful/issues) – or start a [discussion](https://github.com/tj537/toms-tools/discussions).
-
----
-
-🇩🇪 Hi, ich bin Tom – ich studiere berufsbegleitend Marketing Management in Baden-Württemberg und baue mit KI die kleinen Werkzeuge, die ich im Job und im Studium selbst brauche. Meine Projekte: [Toms Tools](https://github.com/tj537/toms-tools) und [Mindful](https://github.com/tj537/mindful).
+Ideas or bugs? Open an issue in [Mindful](https://github.com/tj537/mindful/issues) or [Toms Tools](https://github.com/tj537/toms-tools/issues/new/choose).
