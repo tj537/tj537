@@ -23,9 +23,9 @@ I study **marketing management** in Baden-Württemberg, Germany – part-time, n
 
 ### 🧠 Mindful
 
-Mind maps, Markdown and presentations in one small Mac app. Write an outline once, present it as slides with diagrams and charts – with presenter view and PDF export. Written in Rust.
+Mind maps, Markdown and presentations in one small app for Mac and Windows. Write an outline once, present it as slides with diagrams and charts – with presenter view, phone remote and PDF export. Written in Rust.
 
-[⬇️ Download for macOS](https://github.com/tj537/mindful/releases/latest/download/Mindful-macos-arm64.zip) · [📂 Repo](https://github.com/tj537/mindful)
+[⬇️ macOS](https://github.com/tj537/mindful/releases/latest/download/Mindful-macos-arm64.zip) · [⬇️ Windows](https://github.com/tj537/mindful/releases/latest/download/Mindful-windows-x64.zip) · [📂 Repo](https://github.com/tj537/mindful)
 
 </td>
 </tr>
