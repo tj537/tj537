@@ -63,6 +63,13 @@ I build small apps that I want to use myself – and learn programming with AI a
 
 </td>
 <td width="50%" valign="top">
+
+**🎞️ Filmriss** · 🚧 *work in progress*
+
+A camera app with live film looks: 15 simulations inspired by classic film stocks, applied live on the GPU, with film grain, your own recipes and `.cube` LUTs. Early development version, tested on Mac so far – no downloads yet, you build it from source. Written in Rust.
+
+[🏷️ v0.1.0 (pre-release)](https://github.com/tj537/Filmriss36/releases/tag/v0.1.0) · [📂 Code](https://github.com/tj537/Filmriss36)
+
 </td>
 </tr>
 </table>
@@ -71,4 +78,4 @@ I build small apps that I want to use myself – and learn programming with AI a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%20Fischer-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/tom-fischer-466479220)
 
-Ideas or bugs? Open an issue in [Mindful](https://github.com/tj537/mindful/issues), [Toms Tools](https://github.com/tj537/toms-tools/issues/new/choose), [NotSure](https://github.com/tj537/notsure/issues), [Tessera](https://github.com/tj537/tessera/issues) or [Bunker](https://github.com/tj537/bunker/issues).
+Ideas or bugs? Open an issue in [Mindful](https://github.com/tj537/mindful/issues), [Toms Tools](https://github.com/tj537/toms-tools/issues/new/choose), [NotSure](https://github.com/tj537/notsure/issues), [Tessera](https://github.com/tj537/tessera/issues), [Bunker](https://github.com/tj537/bunker/issues) or [Filmriss](https://github.com/tj537/Filmriss36/issues).
