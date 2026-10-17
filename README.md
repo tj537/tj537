@@ -48,7 +48,7 @@ I build small apps that I want to use myself – and learn programming with AI a
 
 **🎨 Tessera** – generative posters: pick a design (flow lines, mountain ridges or Bauhaus tiles), turn the knobs, add a title and export a print-ready PNG up to A2. Written in Rust.
 
-[📂 Code](https://github.com/tj537/tessera)
+[⬇️ macOS](https://github.com/tj537/tessera/releases/latest/download/Tessera-macos-arm64.zip) · [⬇️ Windows](https://github.com/tj537/tessera/releases/latest/download/Tessera-windows-x64.zip) · [📂 Code](https://github.com/tj537/tessera)
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ I build small apps that I want to use myself – and learn programming with AI a
 
 **⭕ Bunker** – techno beats in orbit: a drum machine for people who have never used one. Every sound is a glowing ring, bass and acid included, and the auto mode plays a whole set with breakdowns and drops. Plug in a MIDI keyboard and play along. Written in Rust.
 
-[📂 Code](https://github.com/tj537/bunker)
+[⬇️ macOS](https://github.com/tj537/bunker/releases/latest/download/Bunker-macos-universal.zip) · [⬇️ Windows](https://github.com/tj537/bunker/releases/latest/download/Bunker-windows-x64.zip) · [📂 Code](https://github.com/tj537/bunker)
 
 </td>
 <td width="50%" valign="top">
