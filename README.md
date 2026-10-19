@@ -4,10 +4,9 @@ I build small apps that I want to use myself – and learn programming with AI a
 
 **💡 What I care about**
 
-- 🧰 **Useful everyday apps** – small, fast and modern, each doing one job well
-- 🎨 **Good design and UX** – a tool should feel good to use, not just work
-- 🔒 **Privacy and open source** – your files stay on your computer, the code is open
-- 🤖 **Learning to code with AI** – from an idea to an app people actually use
+- 🧰 **Useful everyday apps** – small, fast and modern. Written in HTML or Rust.
+- 🎨 **Good design and UX** – I love designing unconventional, intuitive, and highly functional user experiences. I place a strong emphasis on user personalization and strong visual aesthetics.
+- 🔒 **Privacy and open source** – your files stay on your computer, all code stays open.
 
 **🛠️ My projects**
 
