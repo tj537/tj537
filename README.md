@@ -88,8 +88,4 @@ A camera app with live film looks: 15 simulations inspired by classic film stock
 </tr>
 </table>
 
-**🤝 Get in touch**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tom%20Fischer-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://de.linkedin.com/in/tom-fischer-466479220)
-
 Ideas or bugs? Open an issue in [Bunker](https://github.com/tj537/bunker/issues), [Mindful](https://github.com/tj537/mindful/issues), [Toms Tools](https://github.com/tj537/toms-tools/issues/new/choose), [NotSure](https://github.com/tj537/notsure/issues), [Tessera](https://github.com/tj537/tessera/issues) or [Filmriss](https://github.com/tj537/Filmriss36/issues).
