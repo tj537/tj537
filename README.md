@@ -2,6 +2,8 @@
 
 I build small apps that I want to use myself – and learn programming with AI along the way.
 
+### 🚀 [Fly through my website → tj537.github.io](https://tj537.github.io/)
+
 **💡 What I care about**
 
 - 🧰 **Useful everyday apps** – small, fast and modern. Written in HTML or Rust.
