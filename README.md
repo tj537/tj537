@@ -14,13 +14,13 @@ I build small apps that I want to use myself – and learn programming with AI a
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/tj537/bunker"><img src="https://raw.githubusercontent.com/tj537/bunker/main/docs/images/orbit.jpg" alt="Bunker – a techno drum machine where every sound is a glowing ring" width="100%"></a>
+<a href="https://tj537.github.io/solarum/"><img src="https://raw.githubusercontent.com/tj537/solarum/main/docs/images/solarum.jpg" alt="Solarum – a techno drum machine where every beat is a planet round the sun" width="100%"></a>
 
-**⭕ Bunker** · ✅ *ready to use*
+**🪐 Solarum** · ✅ *ready to use*
 
-Techno beats in orbit: a drum machine for people who have never used one. Every sound is a glowing ring, bass and acid included, and the auto mode plays a whole set with breakdowns and drops. Two fullscreen visualizers for the big screen, and a MIDI keyboard to play along. Written in Rust.
+Techno from another planet: a drum machine for people who have never used one. Every sound is an orbit round the sun, every beat a planet, bass and acid included. Solari, the little robot on board, rolls fresh grooves or plays a whole set with breakdowns and drops. Written in Rust.
 
-[⬇️ macOS](https://github.com/tj537/bunker/releases/latest/download/Bunker-macos-universal.zip) · [⬇️ Windows](https://github.com/tj537/bunker/releases/latest/download/Bunker-windows-x64.zip) · [📂 Code](https://github.com/tj537/bunker)
+[▶️ Website](https://tj537.github.io/solarum/) · [⬇️ macOS](https://github.com/tj537/solarum/releases/latest/download/Solarum-macos-universal.zip) · [⬇️ Windows](https://github.com/tj537/solarum/releases/latest/download/Solarum-windows-x64.zip) · [📂 Code](https://github.com/tj537/solarum)
 
 </td>
 <td width="50%" valign="top">
@@ -88,4 +88,4 @@ A camera app with live film looks: 15 simulations inspired by classic film stock
 </tr>
 </table>
 
-Ideas or bugs? Open an issue in [Bunker](https://github.com/tj537/bunker/issues), [Mindful](https://github.com/tj537/mindful/issues), [Toms Tools](https://github.com/tj537/toms-tools/issues/new/choose), [NotSure](https://github.com/tj537/notsure/issues), [Tessera](https://github.com/tj537/tessera/issues) or [Filmriss](https://github.com/tj537/Filmriss36/issues).
+Ideas or bugs? Open an issue in [Solarum](https://github.com/tj537/solarum/issues), [Mindful](https://github.com/tj537/mindful/issues), [Toms Tools](https://github.com/tj537/toms-tools/issues/new/choose), [NotSure](https://github.com/tj537/notsure/issues), [Tessera](https://github.com/tj537/tessera/issues) or [Filmriss](https://github.com/tj537/Filmriss36/issues).
